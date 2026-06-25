@@ -25,6 +25,35 @@
     rel="stylesheet"
     href="//fonts.googleapis.com/css?family=Didact+Gothic%7CRoboto:400%7CRoboto+Mono"
   />
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css"
+  />
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/contrib/auto-render.min.js"></script>
+  <script>
+    const initKatex = () => {
+      if (typeof renderMathInElement === "function") {
+        renderMathInElement(document.body, {
+          delimiters: [
+            { left: "$$", right: "$$", display: true },
+            { left: "$", right: "$", display: false },
+            { left: "\\[", right: "\\]", display: true },
+            { left: "\\(", right: "\\)", display: false }
+          ],
+          throwOnError: false,
+        });
+      } else {
+        window.setTimeout(initKatex, 50);
+      }
+    };
+
+    if (document.readyState === "loading") {
+      window.addEventListener("load", initKatex);
+    } else {
+      initKatex();
+    }
+  </script>
 
   {{ $css := resources.Get "main.css" | css.TailwindCSS }} {{ if
   hugo.IsProduction }} {{ with $css | minify | fingerprint }}

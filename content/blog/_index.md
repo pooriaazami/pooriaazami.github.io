@@ -1,4 +1,4 @@
 ---
 title: "Blog"
-weight: 100
+weight: 50
 ---

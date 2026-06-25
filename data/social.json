@@ -1,37 +1,27 @@
 [
   {
-    "icon": "bi bi-linkedin",
-    "url": "#",
-    "title": "LinkedIn"
-  },
-  {
-    "icon": "bi bi-stack-overflow",
-    "url": "#",
-    "title": "StackOverflow"
-  },
-  {
     "icon": "bi bi-github",
-    "url": "#",
+    "url": "https://github.com/pooriaazami",
     "title": "GitHub"
   },
   {
-    "icon": "bi bi-twitter",
-    "url": "#",
+    "icon": "bi bi-twitter-x",
+    "url": "https://x.com/pooriaazami",
     "title": "Twitter"
   },
   {
-    "icon": "ai ai-orcid",
-    "url": "#",
-    "title": "Orcid"
+    "icon": "bi bi-telegram",
+    "url": "https://t.me/pooriaazami",
+    "title": "Telegram"
   },
   {
-    "icon": "ai ai-google-scholar",
-    "url": "#",
-    "title": "Google Scholar"
+    "icon": "bi bi-linkedin",
+    "url": "https://www.linkedin.com/in/pooria-azami-483ab71a6/",
+    "title": "LinkedIn"
   },
   {
-    "icon": "ai ai-researchgate",
-    "url": "#",
-    "title": "ResearchGate"
+    "icon": "bi bi-envelope",
+    "url": "mailto:pooriaazami@gmail.com",
+    "title": "Email"
   }
 ]

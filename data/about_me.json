@@ -1,8 +1,11 @@
 {
-  "title": "About **`aafu`**",
+  "title": "About Me",
   "icon": "bi bi-person",
   "description": [
-    "This is a demo of the **`aafu`** theme. This theme has `light` and `dark` mode. You can switch between them using the toggle button in the top right corner. The theme is built using [Tailwind CSS](https://tailwindcss.com/) and is fully responsive. It uses [pagefind](https://pagefind.app/) for search functionality. You can use this theme for your personal website, portfolio, or blog. It is easy to customize and you can add your own content and style it as you like. This section also supports **markdown**.",
-    "You can add multiple items to the description array and they will be rendered as separate paragraphs."
+    "I am Pooria Azami, a Master's student specializing in deep learning at Yazd University, with a particular focus on computer vision. My research centers on representation learning for computer vision applications, especially the development of effective representations for 3D human pose estimation.",
+    "I am enthusiastic about collaborating on deep learning research projects, particularly those involving 3D and 4D scene reconstruction. I am also interested in applying computer vision and machine learning techniques to medical imaging and healthcare-related problems.",
+    "Beyond my research interests, I enjoy studying mathematics. In particular, I am fascinated by topology, manifold theory, group theory, probability theory, statistics—especially Bayesian statistics—and linear algebra.",
+    "I am highly self-motivated and continuously strive to deepen my knowledge by reading and analyzing research papers whenever time permits.",
+    "I also enjoy teaching machine learning and deep learning concepts to motivated students and helping them develop a strong understanding of the underlying principles."
   ]
 }
