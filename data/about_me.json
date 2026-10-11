@@ -2,10 +2,6 @@
   "title": "About Me",
   "icon": "bi bi-person",
   "description": [
-    "I am Pooria Azami, a Master's student specializing in deep learning at Yazd University, with a particular focus on computer vision. My research centers on representation learning for computer vision applications, especially the development of effective representations for 3D human pose estimation.",
-    "I am enthusiastic about collaborating on deep learning research projects, particularly those involving 3D and 4D scene reconstruction. I am also interested in applying computer vision and machine learning techniques to medical imaging and healthcare-related problems.",
-    "Beyond my research interests, I enjoy studying mathematics. In particular, I am fascinated by topology, manifold theory, group theory, probability theory, statistics—especially Bayesian statistics—and linear algebra.",
-    "I am highly self-motivated and continuously strive to deepen my knowledge by reading and analyzing research papers whenever time permits.",
-    "I also enjoy teaching machine learning and deep learning concepts to motivated students and helping them develop a strong understanding of the underlying principles."
+    "I am a researcher and university lecturer with a background in artificial intelligence, machine learning, and computer vision. My research interests lie at the intersection of representation learning, generative modeling, cognitive science, and computational neuroscience, with a particular interest in understanding the principles underlying learning and intelligent behavior. I am especially interested in mathematical perspectives on learning, including geometry, topology, and dynamical systems. Beyond research, I have experience teaching undergraduate and graduate courses, mentoring students, and supporting academic activities."
   ]
 }

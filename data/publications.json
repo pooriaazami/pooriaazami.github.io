@@ -1,20 +1,37 @@
 {
   "title": "Publications",
   "icon": "bi bi-book",
-  "format": ["title", "date", "authors", "journal"],
+  "format": [
+    "title",
+    "date",
+    "authors",
+    "journal"
+  ],
   "delimiter": "; ",
   "list": [
     {
-      "title": "**The Oracle Knows**: Learning to Aggregate Temporal Flow Matching Hypotheses for Monocular 3D Pose Estimation",
+      "title": "BEYOND THE CONDITIONAL MEAN: TRANSITION MATCHING FOR STOCHASTIC HUMAN MOTION PREDICTION",
+      "authors": "A Mohammadi, **P Azami**, M Mohajerani",
+      "date": "2026",
+      "journal": "Submitted to the International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2027"
+    },
+    {
+      "title": "**STARK**: A Skeleton-Coupled Transition Autoregressive Kernel for Multi-Hypothesis Monocular 3D Human Pose Estimation",
       "authors": "A Mohammadi, **P Azami**, N Ghasemi, M Mohajerani",
       "date": "2026",
-      "journal": "Submitted to NeurIPS 2026"
+      "journal": "Conference on Neural Information Processing Systems (NeurIPS) 2026"
+    },
+    {
+      "title": "**The Oracle Knows**: Learning to Aggregate Temporal Flow Matching Hypotheses for Monocular 3D Pose Estimation",
+      "authors": "A Mohammadi, N Ghasemi, **P Azami**, M Mohajerani",
+      "date": "2026",
+      "journal": "Conference on Neural Information Processing Systems (NeurIPS) 2026"
     },
     {
       "title": "[**TEMPO**](images/main_2025_poster.png): 4D Motion Distillation for Unsupervised Monocular 3D Pose Estimation",
       "authors": "A Mohammadi, **P Azami**, N Ghasemi, AM Latif, M Mohajerani",
       "date": "2025",
-      "journal": "[MAIN](https://www.main2025.org/abstracts)"
+      "journal": "[Montreal Artificial Intelligence and Neuroscience (MAIN) Conference, 2025](https://www.main2025.org/abstracts)"
     }
   ]
 }
